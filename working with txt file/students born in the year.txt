@@ -1,0 +1,26 @@
+ifnormation student :
+number 1:
+ 	name: pham cong cuong
+	id: 20194928
+	birthday: 3/4/2001
+	number of subjects: 3
+		subject 1: data structure
+		point of subject 1: 8.5
+		subject 2: math
+		point of subject 2: 9.5
+		subject 3: english
+		point of subject 3: 10
+
+--------------------
+ifnormation student :
+number 2:
+ 	name: phan thi ngoc huyen
+	id: 2019****
+	birthday: 13/3/2001
+	number of subjects: 2
+		subject 1: economics
+		point of subject 1: 9
+		subject 2: math
+		point of subject 2: 8.5
+
+--------------------

@@ -1,0 +1,9 @@
+pham cong cuong,20194928,3/4/2001
+3
+data structure:8.5
+math:9.5
+english:10
+phan thi ngoc huyen,2019****,13/3/2001
+2
+economics:9
+math:8.5
